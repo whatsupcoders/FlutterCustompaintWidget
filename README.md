@@ -28,7 +28,8 @@ For more details on Animation, please watch my Animation Basics video series htt
   </table>
   </div>
   
-For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 FOLLOW ME HERE:
 
