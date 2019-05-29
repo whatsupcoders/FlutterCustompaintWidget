@@ -1,16 +1,36 @@
 # fluttercustompaint
 
-A new Flutter project.
+Flutter Tutorial - CustomPaint Widget with Animation
+
+For the Flutter Tutorial - CustomPaint Widget with Animation  Video series you can check this link https://youtu.be/nq_1thqa1jg
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will see how to use CustomPaint widget in your flutter application and also show you how to mix in some animation with it.
 
-A few resources to get you started if this is your first Flutter project:
+The complete code related to the video can be found in this link https://github.com/whatsupcoders/FlutterCustomPaint/tree/master/fluttercustompaint
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+For more details on Animation, please watch my Animation Basics video series https://www.youtube.com/watch?v=WTi08VBxaGY here.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/Screenshot_1559101852.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/Screenshot_1559101868.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCustompaintWidget/blob/master/assets/custompaint.gif" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
